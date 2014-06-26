@@ -9,6 +9,7 @@ http://blog.fens.me/bootstrap-angularjs-navbar/
 git clone https://github.com/bsspirit/angular-navbar.git
 cd angular-navbar
 bower install
+anywhere
 ```
 
 ## 文件说明
