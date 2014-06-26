@@ -1,7 +1,8 @@
 AngularJS + Bootstrap3 导航菜单
 =============================
 
-http://blog.fens.me/bootstrap-angularjs-navbar/
++ AngularJS + Bootstrap3 导航菜单: http://blog.fens.me/bootstrap-angularjs-navbar/
++ Bootstrap3多级导航菜单 http://blog.fens.me/bootstrap-multilevel-navbar/
 
 ## 安装
 
@@ -16,6 +17,8 @@ anywhere
 
 + page1.html 纯Bootstrap3的实现
 + page2.html Angularjs + Bootstrap3的实现
++ page3.html 静态多级菜单的实现
++ page4.html 动态多级菜单的实现
 
 ## License
 
