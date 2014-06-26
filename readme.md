@@ -1,7 +1,5 @@
-AngularJS + Bootstrap3 NavBar
+AngularJS + Bootstrap3 导航菜单
 =============================
-
-## 文章介绍
 
 http://blog.fens.me/bootstrap-angularjs-navbar/
 
